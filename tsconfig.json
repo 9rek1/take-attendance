@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext"],
+    "experimentalDecorators": true,
+    "strict": true,
+    "rootDir": "src/",
+    "outDir": "dist/",
+    "typeRoots": ["types", "node_modules/@types"]
+  }
+}
